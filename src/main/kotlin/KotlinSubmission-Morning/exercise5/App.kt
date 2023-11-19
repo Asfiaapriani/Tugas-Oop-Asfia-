@@ -10,6 +10,7 @@ fun main() {
     hero.minum()
     hero.lompat()
     hero.duduk()
+    hero.profile()
 
 
 
